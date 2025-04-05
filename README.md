@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 B.Tech in Electronics & Telecommunication Engineering – *VIT Pune* 
+🎓 B.Tech in Electronics & Telecommunication Engineering – VIT Pune
 💡 Passionate about building innovative and impactful tech solutions  
 🌱 Learning: Advanced AI, Web3, Data Engineering  
 📚 Published in IEEE and international conferences  
