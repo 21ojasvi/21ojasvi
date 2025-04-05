@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ojasvi Ghule</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech in E&TC |h3>
+<h3 align="center">Aspiring Software Engineer | B.Tech in E&TC |</h3>
 
 ---
 
